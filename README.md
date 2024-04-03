@@ -1,6 +1,6 @@
 ## URL Short Service
 
-Place a .env file and define the following variable.
+Place a .env file under `config` folder and define the following variable.
 * PORT - Node js application port to run.
 * MONGO_URI -  Database connection URL.
 * BASE - Base of the shorturl.
